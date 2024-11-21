@@ -1,0 +1,2 @@
+pygsheets==2.0.6
+discord.py==2.4.0
